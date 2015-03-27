@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9c86ecce3b681104dbc7db91c1737c57
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 11466254, guid: f31cb447a81d3b241abaece4838321e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

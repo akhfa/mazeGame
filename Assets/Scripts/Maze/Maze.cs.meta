@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 719d1e8f25dd7404c997e4d642a59818
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 11420476, guid: d55f8f198648f314c84dd4e56f958b27, type: 2}
+  - passagePrefab: {fileID: 11448598, guid: a718eb24087d30c4ba24277b188e90db, type: 2}
+  - wallPrefab: {fileID: 11466016, guid: 0edb0b92ee5ff0b4592081934297998f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 08ed50f35627ac74ebf5c2dd0d79da27
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cell: {fileID: 11420476, guid: d55f8f198648f314c84dd4e56f958b27, type: 2}
+  - otherCell: {fileID: 11420476, guid: d55f8f198648f314c84dd4e56f958b27, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
